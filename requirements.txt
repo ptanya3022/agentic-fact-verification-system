@@ -1,0 +1,12 @@
+crewai
+langchain
+google-generativeai
+duckduckgo-search
+pydantic
+python-dotenv
+tqdm
+pandas
+rich
+requests
+wikipedia
+streamlit
